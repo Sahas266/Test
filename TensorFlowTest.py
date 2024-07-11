@@ -1,3 +1,6 @@
+# TensorFlow website demo
+# MNIST classifier
+
 import tensorflow as tf
 print("TensorFlow version:", tf.__version__)
 
